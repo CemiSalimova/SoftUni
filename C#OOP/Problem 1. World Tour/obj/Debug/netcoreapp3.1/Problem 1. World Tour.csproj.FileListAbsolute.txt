@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.exe
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.deps.json
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.runtimeconfig.json
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.dll
+C:\Users\NEW\source\repos\Problem 1. World Tour\bin\Debug\netcoreapp3.1\Problem 1. World Tour.pdb
+C:\Users\NEW\source\repos\Problem 1. World Tour\obj\Debug\netcoreapp3.1\Problem 1. World Tour.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\Problem 1. World Tour\obj\Debug\netcoreapp3.1\Problem 1. World Tour.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Problem 1. World Tour\obj\Debug\netcoreapp3.1\Problem 1. World Tour.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Problem 1. World Tour\obj\Debug\netcoreapp3.1\Problem 1. World Tour.dll
+C:\Users\NEW\source\repos\Problem 1. World Tour\obj\Debug\netcoreapp3.1\Problem 1. World Tour.pdb

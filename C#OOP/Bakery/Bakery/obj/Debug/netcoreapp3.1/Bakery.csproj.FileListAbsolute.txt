@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\NEW\source\repos\Bakery\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\NEW\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\NEW\source\repos\Bakery\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb

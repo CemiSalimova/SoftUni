@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.exe
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.deps.json
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.runtimeconfig.json
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.dll
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\bin\Debug\netcoreapp3.1\Problem 2. Ad Astra.pdb
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.dll
+C:\Users\NEW\source\repos\Problem 2. Ad Astra\obj\Debug\netcoreapp3.1\Problem 2. Ad Astra.pdb

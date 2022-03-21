@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.exe
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.deps.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.runtimeconfig.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.dll
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\plant discovery.pdb
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\plant discovery.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\plant discovery.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\plant discovery.AssemblyInfo.cs
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\plant discovery.dll
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\plant discovery.pdb

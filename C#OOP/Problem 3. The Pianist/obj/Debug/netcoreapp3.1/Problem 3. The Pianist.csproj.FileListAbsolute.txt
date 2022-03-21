@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.exe
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.deps.json
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.runtimeconfig.json
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.dll
+C:\Users\NEW\source\repos\Problem 3. The Pianist\bin\Debug\netcoreapp3.1\Problem 3. The Pianist.pdb
+C:\Users\NEW\source\repos\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.dll
+C:\Users\NEW\source\repos\Problem 3. The Pianist\obj\Debug\netcoreapp3.1\Problem 3. The Pianist.pdb

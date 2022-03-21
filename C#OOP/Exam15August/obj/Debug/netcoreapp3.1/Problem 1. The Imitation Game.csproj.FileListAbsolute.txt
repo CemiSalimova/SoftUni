@@ -1,0 +1,10 @@
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.exe
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.deps.json
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.runtimeconfig.json
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.dll
+C:\Users\NEW\source\repos\Exam15AugustRetake\bin\Debug\netcoreapp3.1\Problem 1. The Imitation Game.pdb
+C:\Users\NEW\source\repos\Exam15AugustRetake\obj\Debug\netcoreapp3.1\Problem 1. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Exam15AugustRetake\obj\Debug\netcoreapp3.1\Problem 1. The Imitation Game.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Exam15AugustRetake\obj\Debug\netcoreapp3.1\Problem 1. The Imitation Game.dll
+C:\Users\NEW\source\repos\Exam15AugustRetake\obj\Debug\netcoreapp3.1\Problem 1. The Imitation Game.pdb

@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.exe
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.deps.json
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.runtimeconfig.json
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.dll
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\bin\Debug\netcoreapp3.1\SnowWhite.pdb
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\obj\Debug\netcoreapp3.1\SnowWhite.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\obj\Debug\netcoreapp3.1\SnowWhite.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\obj\Debug\netcoreapp3.1\SnowWhite.AssemblyInfo.cs
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\obj\Debug\netcoreapp3.1\SnowWhite.dll
+C:\Users\NEW\source\repos\SnowWhite\SnowWhite\obj\Debug\netcoreapp3.1\SnowWhite.pdb

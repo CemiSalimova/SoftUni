@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.exe
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.deps.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.runtimeconfig.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.dll
+C:\Users\NEW\source\repos\plant discovery\bin\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.pdb
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.AssemblyInfo.cs
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.dll
+C:\Users\NEW\source\repos\plant discovery\obj\Debug\netcoreapp3.1\B.Problem 3. Plant Discovery.pdb

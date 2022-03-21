@@ -1,0 +1,11 @@
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\C#\C#_WEB\exam\01. Football Manager_Skeleton - 6.0\Skeleton-6.0\FootballManager\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb

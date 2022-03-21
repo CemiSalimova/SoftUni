@@ -1,0 +1,11 @@
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.exe
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.deps.json
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.runtimeconfig.json
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.runtimeconfig.dev.json
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.dll
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\bin\Debug\netcoreapp3.1\Problem 2. Destination Mapper.pdb
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.csprojAssemblyReference.cache
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.AssemblyInfoInputs.cache
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.AssemblyInfo.cs
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.dll
+C:\Users\NEW\source\repos\Problem 2. Destination Mapper\obj\Debug\netcoreapp3.1\Problem 2. Destination Mapper.pdb

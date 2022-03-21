@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20211108153426_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211108153426_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109125037_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109125037_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109130020_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109130020_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109130056_Initial.cs" />
+    <Compile Remove="Migrations\20211109130056_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20211109130301_Initial.cs" />
+    <Compile Remove="Migrations\20211109130301_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20211109130455_Initial.cs" />
+    <Compile Remove="Migrations\20211109130455_Initial.Designer.cs" />
+    <Compile Remove="Migrations\20211109130522_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109130522_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109134256_InitialMigration.cs" />
+    <Compile Remove="Migrations\20211109134256_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20211109134455_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109134455_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109135418_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109135418_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109145824_InitialMigration.cs" />
+    <Compile Remove="Migrations\20211109145824_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20211109150438_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109150438_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109150634_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109150634_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109150941_InitialMigrattion.cs" />
+    <Compile Remove="Migrations\20211109150941_InitialMigrattion.Designer.cs" />
+    <Compile Remove="Migrations\20211109151053_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109151053_ProductsAddColumnDescription.Designer.cs" />
+    <Compile Remove="Migrations\20211109151842_InitialMigration.cs" />
+    <Compile Remove="Migrations\20211109151842_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20211109151901_ProductsAddColumnDescription.cs" />
+    <Compile Remove="Migrations\20211109151901_ProductsAddColumnDescription.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>
